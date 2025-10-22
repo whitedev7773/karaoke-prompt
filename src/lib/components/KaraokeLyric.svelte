@@ -35,9 +35,12 @@
 	:root {
 		--duration: 300ms;
 		--speed-graph: cubic-bezier(0.4, 0.01, 0.22, 0.98);
-		--blur-amount: 2px;
-		--opacity-low-1: 0.5;
-		--opacity-low-2: 0.3;
+		/* --blur-amount: 2px; */
+		--blur-amount: 0px;
+		/* --opacity-low-1: 0.5;
+		--opacity-low-2: 0.3; */
+		--opacity-low-1: 1;
+		--opacity-low-2: 1;
 		--font-weight-unfocus: 400;
 		--font-weight-focus: 700;
 	}

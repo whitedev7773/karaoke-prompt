@@ -40,7 +40,7 @@
 	}
 
 	p:global(.show) {
-		transition: opacity 250ms linear 200ms;
+		transition: opacity 250ms linear 100ms;
 		opacity: 1;
 	}
 

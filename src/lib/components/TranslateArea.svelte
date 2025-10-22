@@ -30,6 +30,6 @@
 		align-items: center;
 		justify-content: center;
 
-		opacity: 0.4;
+		opacity: 1;
 	}
 </style>
